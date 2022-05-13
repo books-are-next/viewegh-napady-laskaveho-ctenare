@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="urn:uuid:296c0919-9963-415a-a386-6c26c077b931" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Nápady laskavého čtenáře</text>
+  </docTitle>
+  <docAuthor>
+    <text>Michal Viewegh</text>
+  </docAuthor>
+  <navMap>
+    <navPoint id="navpoint1" playOrder="1">
+      <navLabel>
+        <text>Prosincové tornádo</text>
+      </navLabel>
+      <content src="Text/napady_laskaveho_ctenare_008.xhtml#toc_marker-1"/>
+    </navPoint>
+    <navPoint id="navpoint2" playOrder="2">
+      <navLabel>
+        <text>Další truchlivý žert</text>
+      </navLabel>
+      <content src="Text/napady_laskaveho_ctenare_009.xhtml#toc_marker-2"/>
+    </navPoint>
+    <navPoint id="navpoint3" playOrder="3">
+      <navLabel>
+        <text>Prima večer</text>
+      </navLabel>
+      <content src="Text/napady_laskaveho_ctenare_010.xhtml#toc_marker-3"/>
+    </navPoint>
+    <navPoint id="navpoint4" playOrder="4">
+      <navLabel>
+        <text>Ztráta slabikářeanebDěvčátko je bez sebe</text>
+      </navLabel>
+      <content src="Text/napady_laskaveho_ctenare_011.xhtml#toc_marker-4"/>
+    </navPoint>
+    <navPoint id="navpoint5" playOrder="5">
+      <navLabel>
+        <text>Muka velrybí obraznosti</text>
+      </navLabel>
+      <content src="Text/napady_laskaveho_ctenare_012.xhtml#toc_marker-5"/>
+      <navPoint id="navpoint6" playOrder="6">
+        <navLabel>
+          <text>1. David</text>
+        </navLabel>
+        <content src="Text/napady_laskaveho_ctenare_012.xhtml#toc_marker-5-1"/>
+      </navPoint>
+      <navPoint id="navpoint7" playOrder="7">
+        <navLabel>
+          <text>2. Evžen</text>
+        </navLabel>
+        <content src="Text/napady_laskaveho_ctenare_012.xhtml#toc_marker-5-2"/>
+      </navPoint>
+      <navPoint id="navpoint8" playOrder="8">
+        <navLabel>
+          <text>3. Dora</text>
+        </navLabel>
+        <content src="Text/napady_laskaveho_ctenare_012.xhtml#toc_marker-5-3"/>
+      </navPoint>
+      <navPoint id="navpoint9" playOrder="9">
+        <navLabel>
+          <text>4. Dáša</text>
+        </navLabel>
+        <content src="Text/napady_laskaveho_ctenare_012.xhtml#toc_marker-5-4"/>
+      </navPoint>
+      <navPoint id="navpoint10" playOrder="10">
+        <navLabel>
+          <text>5. Irena</text>
+        </navLabel>
+        <content src="Text/napady_laskaveho_ctenare_012.xhtml#toc_marker-5-5"/>
+      </navPoint>
+      <navPoint id="navpoint11" playOrder="11">
+        <navLabel>
+          <text>6. David</text>
+        </navLabel>
+        <content src="Text/napady_laskaveho_ctenare_012.xhtml#toc_marker-5-6"/>
+      </navPoint>
+      <navPoint id="navpoint12" playOrder="12">
+        <navLabel>
+          <text>7. Evžen</text>
+        </navLabel>
+        <content src="Text/napady_laskaveho_ctenare_012.xhtml#toc_marker-5-7"/>
+      </navPoint>
+      <navPoint id="navpoint13" playOrder="13">
+        <navLabel>
+          <text>8. Dora</text>
+        </navLabel>
+        <content src="Text/napady_laskaveho_ctenare_012.xhtml#toc_marker-5-8"/>
+      </navPoint>
+      <navPoint id="navpoint14" playOrder="14">
+        <navLabel>
+          <text>9. David</text>
+        </navLabel>
+        <content src="Text/napady_laskaveho_ctenare_012.xhtml#toc_marker-5-9"/>
+      </navPoint>
+      <navPoint id="navpoint15" playOrder="15">
+        <navLabel>
+          <text>10. Dáša</text>
+        </navLabel>
+        <content src="Text/napady_laskaveho_ctenare_012.xhtml#toc_marker-5-10"/>
+      </navPoint>
+      <navPoint id="navpoint16" playOrder="16">
+        <navLabel>
+          <text>11. Irena</text>
+        </navLabel>
+        <content src="Text/napady_laskaveho_ctenare_012.xhtml#toc_marker-5-11"/>
+      </navPoint>
+      <navPoint id="navpoint17" playOrder="17">
+        <navLabel>
+          <text>12. Evžen</text>
+        </navLabel>
+        <content src="Text/napady_laskaveho_ctenare_012.xhtml#toc_marker-5-12"/>
+      </navPoint>
+      <navPoint id="navpoint18" playOrder="18">
+        <navLabel>
+          <text>13. David</text>
+        </navLabel>
+        <content src="Text/napady_laskaveho_ctenare_012.xhtml#toc_marker-5-13"/>
+      </navPoint>
+      <navPoint id="navpoint19" playOrder="19">
+        <navLabel>
+          <text>14. Dáša</text>
+        </navLabel>
+        <content src="Text/napady_laskaveho_ctenare_012.xhtml#toc_marker-5-14"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navpoint20" playOrder="20">
+      <navLabel>
+        <text>Chvála metody</text>
+      </navLabel>
+      <content src="Text/napady_laskaveho_ctenare_013.xhtml#toc_marker-6"/>
+      <navPoint id="navpoint21" playOrder="21">
+        <navLabel>
+          <text>I</text>
+        </navLabel>
+        <content src="Text/napady_laskaveho_ctenare_013.xhtml#toc_marker-6-1"/>
+      </navPoint>
+      <navPoint id="navpoint22" playOrder="22">
+        <navLabel>
+          <text>II</text>
+        </navLabel>
+        <content src="Text/napady_laskaveho_ctenare_013.xhtml#toc_marker-6-2"/>
+      </navPoint>
+      <navPoint id="navpoint23" playOrder="23">
+        <navLabel>
+          <text>III</text>
+        </navLabel>
+        <content src="Text/napady_laskaveho_ctenare_013.xhtml#toc_marker-6-3"/>
+      </navPoint>
+      <navPoint id="navpoint24" playOrder="24">
+        <navLabel>
+          <text>IV</text>
+        </navLabel>
+        <content src="Text/napady_laskaveho_ctenare_013.xhtml#toc_marker-6-4"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navpoint25" playOrder="25">
+      <navLabel>
+        <text>Když ti není pomoci, zkus vyběhnout do noci</text>
+      </navLabel>
+      <content src="Text/napady_laskaveho_ctenare_014.xhtml#toc_marker-7"/>
+    </navPoint>
+    <navPoint id="navpoint26" playOrder="26">
+      <navLabel>
+        <text>Jára Kinderman, pedagog</text>
+      </navLabel>
+      <content src="Text/napady_laskaveho_ctenare_015.xhtml#toc_marker-8"/>
+      <navPoint id="navpoint27" playOrder="27">
+        <navLabel>
+          <text>Dětství</text>
+        </navLabel>
+        <content src="Text/napady_laskaveho_ctenare_015.xhtml#toc_marker-8-1"/>
+      </navPoint>
+      <navPoint id="navpoint28" playOrder="28">
+        <navLabel>
+          <text>Další léta</text>
+        </navLabel>
+        <content src="Text/napady_laskaveho_ctenare_015.xhtml#toc_marker-8-2"/>
+      </navPoint>
+      <navPoint id="navpoint29" playOrder="29">
+        <navLabel>
+          <text>Návštěva Pesttalozziho</text>
+        </navLabel>
+        <content src="Text/napady_laskaveho_ctenare_015.xhtml#toc_marker-8-3"/>
+      </navPoint>
+      <navPoint id="navpoint30" playOrder="30">
+        <navLabel>
+          <text>Další léta</text>
+        </navLabel>
+        <content src="Text/napady_laskaveho_ctenare_015.xhtml#toc_marker-8-4"/>
+      </navPoint>
+      <navPoint id="navpoint31" playOrder="31">
+        <navLabel>
+          <text>Druhá návštěva Pesttalozziho</text>
+        </navLabel>
+        <content src="Text/napady_laskaveho_ctenare_015.xhtml#toc_marker-8-5"/>
+      </navPoint>
+      <navPoint id="navpoint32" playOrder="32">
+        <navLabel>
+          <text>Nemoc</text>
+        </navLabel>
+        <content src="Text/napady_laskaveho_ctenare_015.xhtml#toc_marker-8-6"/>
+      </navPoint>
+      <navPoint id="navpoint33" playOrder="33">
+        <navLabel>
+          <text>Poslední léta</text>
+        </navLabel>
+        <content src="Text/napady_laskaveho_ctenare_015.xhtml#toc_marker-8-7"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navpoint34" playOrder="34">
+      <navLabel>
+        <text>Kapesné inteligentní ženy ve vinárně U Sudu</text>
+      </navLabel>
+      <content src="Text/napady_laskaveho_ctenare_016.xhtml#toc_marker-9"/>
+    </navPoint>
+    <navPoint id="navpoint35" playOrder="35">
+      <navLabel>
+        <text>Můj syn Václav Havel</text>
+      </navLabel>
+      <content src="Text/napady_laskaveho_ctenare_017.xhtml#toc_marker-10"/>
+    </navPoint>
+    <navPoint id="navpoint36" playOrder="36">
+      <navLabel>
+        <text>Dva lektorské posudky</text>
+      </navLabel>
+      <content src="Text/napady_laskaveho_ctenare_018.xhtml#toc_marker-11"/>
+      <navPoint id="navpoint37" playOrder="37">
+        <navLabel>
+          <text>Vitana Byšice: Knedlíky v prášku</text>
+        </navLabel>
+        <content src="Text/napady_laskaveho_ctenare_018.xhtml#toc_marker-11-1"/>
+      </navPoint>
+      <navPoint id="navpoint38" playOrder="38">
+        <navLabel>
+          <text>Orthosan BF 45: Šampon na vlasy s desinsekčními a desinfekčními účinky.</text>
+        </navLabel>
+        <content src="Text/napady_laskaveho_ctenare_018.xhtml#toc_marker-11-2"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navpoint39" playOrder="39">
+      <navLabel>
+        <text>Nebezpečné známosti</text>
+      </navLabel>
+      <content src="Text/napady_laskaveho_ctenare_019.xhtml#toc_marker-12"/>
+      <navPoint id="navpoint40" playOrder="40">
+        <navLabel>
+          <text>I</text>
+        </navLabel>
+        <content src="Text/napady_laskaveho_ctenare_019.xhtml#toc_marker-12-1"/>
+      </navPoint>
+      <navPoint id="navpoint41" playOrder="41">
+        <navLabel>
+          <text>II</text>
+        </navLabel>
+        <content src="Text/napady_laskaveho_ctenare_019.xhtml#toc_marker-12-2"/>
+      </navPoint>
+      <navPoint id="navpoint42" playOrder="42">
+        <navLabel>
+          <text>III</text>
+        </navLabel>
+        <content src="Text/napady_laskaveho_ctenare_019.xhtml#toc_marker-12-3"/>
+      </navPoint>
+      <navPoint id="navpoint43" playOrder="43">
+        <navLabel>
+          <text>IV</text>
+        </navLabel>
+        <content src="Text/napady_laskaveho_ctenare_019.xhtml#toc_marker-12-4"/>
+      </navPoint>
+      <navPoint id="navpoint44" playOrder="44">
+        <navLabel>
+          <text>V</text>
+        </navLabel>
+        <content src="Text/napady_laskaveho_ctenare_019.xhtml#toc_marker-12-5"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navpoint45" playOrder="45">
+      <navLabel>
+        <text>Tatarská poušť</text>
+      </navLabel>
+      <content src="Text/napady_laskaveho_ctenare_020.xhtml#toc_marker-13"/>
+      <navPoint id="navpoint46" playOrder="46">
+        <navLabel>
+          <text>II</text>
+        </navLabel>
+        <content src="Text/napady_laskaveho_ctenare_020.xhtml#toc_marker-13-1"/>
+      </navPoint>
+      <navPoint id="navpoint47" playOrder="47">
+        <navLabel>
+          <text>III</text>
+        </navLabel>
+        <content src="Text/napady_laskaveho_ctenare_020.xhtml#toc_marker-13-2"/>
+      </navPoint>
+      <navPoint id="navpoint48" playOrder="48">
+        <navLabel>
+          <text>IV</text>
+        </navLabel>
+        <content src="Text/napady_laskaveho_ctenare_020.xhtml#toc_marker-13-3"/>
+      </navPoint>
+      <navPoint id="navpoint49" playOrder="49">
+        <navLabel>
+          <text>V</text>
+        </navLabel>
+        <content src="Text/napady_laskaveho_ctenare_020.xhtml#toc_marker-13-4"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navpoint50" playOrder="50">
+      <navLabel>
+        <text>Ztracená generace a já</text>
+      </navLabel>
+      <content src="Text/napady_laskaveho_ctenare_021.xhtml#toc_marker-14"/>
+    </navPoint>
+    <navPoint id="navpoint51" playOrder="51">
+      <navLabel>
+        <text>Co hulákají věci</text>
+      </navLabel>
+      <content src="Text/napady_laskaveho_ctenare_022.xhtml#toc_marker-15"/>
+    </navPoint>
+    <navPoint id="navpoint52" playOrder="52">
+      <navLabel>
+        <text>ZorbasanebJak se zbavit Buddhy</text>
+      </navLabel>
+      <content src="Text/napady_laskaveho_ctenare_023.xhtml#toc_marker-16"/>
+    </navPoint>
+    <navPoint id="navpoint53" playOrder="53">
+      <navLabel>
+        <text>Love Story</text>
+      </navLabel>
+      <content src="Text/napady_laskaveho_ctenare_024.xhtml#toc_marker-17"/>
+    </navPoint>
+    <navPoint id="navpoint54" playOrder="54">
+      <navLabel>
+        <text>Něco mezi životem a smrtí</text>
+      </navLabel>
+      <content src="Text/napady_laskaveho_ctenare_025.xhtml#toc_marker-18"/>
+    </navPoint>
+    <navPoint id="navpoint55" playOrder="55">
+      <navLabel>
+        <text>Tichý Američan v Clichy</text>
+      </navLabel>
+      <content src="Text/napady_laskaveho_ctenare_026.xhtml#toc_marker-19"/>
+    </navPoint>
+    <navPoint id="navpoint56" playOrder="56">
+      <navLabel>
+        <text>Cit a děla</text>
+      </navLabel>
+      <content src="Text/napady_laskaveho_ctenare_027.xhtml#toc_marker-20"/>
+      <navPoint id="navpoint57" playOrder="57">
+        <navLabel>
+          <text>I</text>
+        </navLabel>
+        <content src="Text/napady_laskaveho_ctenare_027.xhtml#toc_marker-20-1"/>
+      </navPoint>
+      <navPoint id="navpoint58" playOrder="58">
+        <navLabel>
+          <text>II</text>
+        </navLabel>
+        <content src="Text/napady_laskaveho_ctenare_027.xhtml#toc_marker-20-2"/>
+      </navPoint>
+      <navPoint id="navpoint59" playOrder="59">
+        <navLabel>
+          <text>III</text>
+        </navLabel>
+        <content src="Text/napady_laskaveho_ctenare_027.xhtml#toc_marker-20-3"/>
+      </navPoint>
+      <navPoint id="navpoint60" playOrder="60">
+        <navLabel>
+          <text>IV</text>
+        </navLabel>
+        <content src="Text/napady_laskaveho_ctenare_027.xhtml#toc_marker-20-4"/>
+      </navPoint>
+      <navPoint id="navpoint61" playOrder="61">
+        <navLabel>
+          <text>V</text>
+        </navLabel>
+        <content src="Text/napady_laskaveho_ctenare_027.xhtml#toc_marker-20-5"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navpoint62" playOrder="62">
+      <navLabel>
+        <text>Váženej pane doktore Moody!</text>
+      </navLabel>
+      <content src="Text/napady_laskaveho_ctenare_028.xhtml#toc_marker-21"/>
+    </navPoint>
+  </navMap>
+</ncx>
