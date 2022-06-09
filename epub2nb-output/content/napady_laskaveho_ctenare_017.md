@@ -5,13 +5,11 @@ contentType: prose
 
 _Edě Kriseové_
 
-„Literární propaganda šířila slávu světce českého do světa,
+> „Literární propaganda šířila slávu světce českého do světa,
 
-ale nestvořila ji.“
+> ale nestvořila ji.“
 
 — Josef Pekař, Svatý Václav
-
-  
 
 Když se mi malý Vašík narodil, hned ke mně přátelsky natahoval svoje buclaté prstíky a svíral jimi můj ukazováček. Později mi řekl, že mi chtěl jenom udělat radost a ukázat mi, jak je na tom dobře s rozvojem jemné motoriky. Odjakživa mě měl moc a moc rád, jenom se mu prý zcela nedařilo diferencovat moji osobu a uspokojení z nakojení. Uměl mě ale i pozlobit: jednou, když po koupání ležel na zádíčkách a já mu zkusmo podtrhla osušku, naschvál nechal ručičky připažené a nerozhodil je, ačkoli mu muselo být jasné, že se vyděsím, že ztrácí základní učebnicové reflexy. „Vašíku, Vašíku,“ napomínala jsem ho, „pamatuj si, že když půjdeš lidem na nervy, tak tě zavřou…“ – a zavřela jsem ho do skříně. Pokaždé si tam cosi brumlal a já dneska už vím, že to byla první verze jeho eseje Moc bezmocných. Vždycky si mě pak ale chtěl rychle udobřit, a protože byl už od malička neuvěřitelně pořádkumilovný, srovnal obvykle šuplík s věcmi na koupání: žínky a osušky na jednu stranu, heřmánkový zásyp a olejíček doprostřed a napravo pak teploměr, kachničky a italské vatičky na čištění uší. Vzpomínám si, že jednou tyhle luxusní a jak on říkal „buržoazní“ vatičky vyhodil a namísto nich položil docela obyčejné zápalky. „Chci být ve všem jako ostatní,“ řekl mi. Brzy nato dostal vysoké horečky a já jsem si myslela, že má zánět středního ucha, ale doktor zjistil, že má jenom proražený bubínek. Chvíli s tím stonal a přitom se dočetl, že Palacký přečetl v pěti letech celou bibli – chtěl si ji tedy přečíst také, ačkoli mu ještě ani pět nebylo, ale nakonec si přečetl Šafaříkových Sedm listů Melinovi, protože to bylo kratší. Přečetla jsem si je potom taky, a když jsem dočetla, přitiskla jsem si tu knihu k prsům, protože mě to doslova uštknulo, ale Vašík mi to ihned vysál. Byl vskutku mimořádné dítě. A jak nádherně kreslil! Jednou, to mu byly asi čtyři, namaloval takové podivné, jakoby mramorové kolečko – a když jsem si výkres prohlédla pozorněji, s úžasem jsem zjistila, že je to Kolářův stůl ve Slávii…
 

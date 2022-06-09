@@ -5,17 +5,15 @@ contentType: prose
 
 _Henri Millerovi_
 
-„Jeho cílem není psát o erotice,  
-ale vypsat celou pravdu o životě,  
-tak jak ho zná.“
+> „Jeho cílem není psát o erotice,  
+> ale vypsat celou pravdu o životě,  
+> tak jak ho zná.“
 
 — Karl Shapiro
 
-„Nic než kunda. To je život!“
+> „Nic než kunda. To je život!“
 
 — Henry Miller
-
-  
 
 Když tak přemýšlím o tom období našeho společného života v Clichy, připadá mi to jako doba strávená v ráji. Montmartre byl plný špinavých, nemytých děvek, ke kterým člověk okamžitě přilnul a zjistil, že to, co kdysi měl za hnusné, nečisté a ubohé, je náhle půvabné, něžné a krásné. Byla to doba, kdy kunda visela ve vzduchu, přirozeně s výjimkou těch dnů, kdy byla teplotní inverze, celé se to otočilo a ve vzduchu visela prdel. Kavárny byly plné krásných elegantních žen, o kterých jste věděli, že s vámi kdykoli půjdou kamkoli, vykouří vás a nechají si za to zaplatit, ale to z nich, prokrista, ještě nedělalo kurvy. Byly tu Angličanky, Němky, Italky, byla tu hysterka Jeanna, věčně střídající nálady krajního veselí a té nejčernější melancho­lie – koupili jste jí třeba punčochy, celá se rozzářila a potom se na nich oběsila. Byla tu taky ta šílená lunatická šlapka, která si za úplňku vháněla do kundy měsíční světlo: když byla se zákazníkem, psala při tom básně, a nechávala se proto obdělávat výhradně zezadu – museli jste jí číst přes rameno a volit tempo podle tempa básně, abyste jí nenabourali trochej nebo daktyl, což by se vám mohlo ošklivě nevyplatit, protože nosila v kabelce odjištěný kalašnikov. A byla tu Carlova Eliana, mladá, štíhlá a mimořádně půvabná dívka, až na to, že měla ryšavý plnovous a boční vývod, ale v očích mého přítele tyto nedostatky její krásu jenom zvyšovaly. Ale především tu byla moje Nys.
 

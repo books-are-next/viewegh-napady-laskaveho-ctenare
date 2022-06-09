@@ -3,7 +3,7 @@ title: Love Story
 contentType: prose
 ---
 
-(příběh jednoho zápasu)
+**(příběh jednoho zápasu)**
 
 _Erichu Segalovi_
 

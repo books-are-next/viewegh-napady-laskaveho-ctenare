@@ -3,7 +3,7 @@ title: Tatarská poušť
 contentType: prose
 ---
 
-(česká varianta)
+**(česká varianta)**
 
 _Dinu Buzzatimu_
 
@@ -23,9 +23,7 @@ Bílá pevnost na odlehlé hranici s Východní říší, kam byl ihned po abso
 
 „Myslím, že již ne,“ odvětil poručík.
 
-II
-
-  
+## II
 
 Ještě té noci vzal kapitán M. poručíka na obchůzku po hradbách pevnosti. Stráže je předepsaným způsobem zdravily, ale poručík se nicméně nemohl zbavit dojmu, že jejich tváře, naoko ostražitě upřené do pusté, měsícem ozářené krajiny, jsou zkřiveny do jakéhosi škodolibého, sarkastického úšklebku. Na chvíli se zastavil: široko daleko se táhla holá pláň. Vpravo na obzoru blikotala světélka sousední pevnosti, přezdívané Černá.
 
@@ -49,9 +47,7 @@ Kapitán si nervózně hryzl rty. Bylo vidět, že má určité pochyby. Náhle 
 
 „Když jdeme do stráže, dostáváme je už nabité. Nikdy nikomu neukázali náboje… Jak potom člověk nemá pochybovat?“
 
-III
-
-  
+## III
 
 Poručíkův pocit, že je obklopen čímsi nevysvětlitelným, od toho dne sílil. Tím horlivěji se však vrhl do práce, snad aby neměl čas věnovat se nejrůznějším úvahám, které by jeho poslání v pevnosti zpochybňovaly. Jeho četa brzy patřila k nejlepším.
 
@@ -63,15 +59,11 @@ Navenek však na sobě nedal nic znát. Jednoho dne, to už sloužil v pevnosti
 
 „Soudruhu vojíne,“ řekl káravě, „neslyšel jste nikdy slovo obchvat?“
 
-IV
-
-  
+## IV
 
 Ale mnohé nezodpovězené otázky v něm přesto zůstávaly. Pár let nato (mezitím byl poručík povýšen na kapitána) došlo k následujícímu incidentu: jeden z nově příchozích vojínů v noci pevnost svévolně opustil, v nejbližším hostinci (devět kilometrů vzdušnou čarou) se opil, a když se k ránu vracel nazpět, odmítl uposlechnout výzvu hlídky k zastavení – hlídka tedy v souladu s předpisy použila služební zbraň. Stalo se však cosi neuvěřitelného: výstřel nebylo slyšet a provinilec zůstal zcela nezraněn – během následující hodiny však on i oba členové hlídky navždy zmizeli neznámo kam. Očití svědkové navíc kapitánovi přísahali, že z místa oné mimořádné události na vlastní uši slyšeli upřímný, hlasitý smích.
 
-V
-
-  
+## V
 
 Následující noc se kapitánu D. dlouho nedařilo usnout. Převaloval se na posteli a zamyšleně hleděl na prasklinu v omítce ve tvaru O, jež mu připomínala počet všech žen, které kdy v životě měl. Každou půlhodinu doléhalo k jeho bdící mysli předepsané volání stráží: „Póóó-zóóór…! Póóó-zóóór!“, které pak výsměšná ozvěna odrážela jako něco, co přibližně znělo: „Astááá-róžnááá!“
 

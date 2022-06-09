@@ -3,7 +3,7 @@ title: Prima večer
 contentType: prose
 ---
 
-(text o nejdůležitějších věcech v Kostelci)
+**(text o nejdůležitějších věcech v Kostelci)**
 
 _Josefu Škvoreckému_
 

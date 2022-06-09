@@ -3,11 +3,10 @@ title: ''
 contentType: prose
 ---
 
-Zato  
+_Zato  
    
 Michal Viewegh   
-zkusil, jak píší uvedení autoři.  
- 
+zkusil, jak píší uvedení autoři._ 
 
 Soubor jeho rozverně nactiutrhačných  
 literárních parodií pod názvem

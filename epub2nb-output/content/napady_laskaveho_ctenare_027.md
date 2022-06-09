@@ -5,9 +5,7 @@ contentType: prose
 
 _Saint-Exupérymu_
 
-I
-
-  
+## I
 
 BYL JSEM AŽ PŘÍLIŠ ČASTO svědkem, jak se dal soucit nepravou cestou. V jedné době mého mládí jsem i já podléhal soucitu nad mrzáky, kteří se mne snažili ohromit svým morovým zápachem či velikostí svého vředu. Chlubili se mi svými pahýly. Ale i já jsem byl sužován kožní chorobou, připomínající purpurový květ. A otec mi řekl:
 
@@ -19,9 +17,7 @@ A odebral mrzákům jejich berle, aby omyli svá srdce z otroctví malicherný
 
 Byl chytrý jako liška.
 
-II
-
-  
+## II
 
 A TAK JSEM POCHOPIL, že ani utrpení, ani smrt, ani nářek nad mrtvými nejsou k politování.
 
@@ -41,9 +37,7 @@ A vzal mě na koně. Jeli jsme doprostřed pouště, kde již třetí den vypí
 
 Poznal jsem, že můj otec je dobrý.
 
-III
-
-  
+## III
 
 „UŽ SE NAD JEJÍ MRTVOLOU NEZDRŽUJ,“ řekl mi otec. „Není tu už nic k vidění. Kolikrát ti mám říkat, že správně vidíme jen srdcem?“
 
@@ -55,15 +49,11 @@ III
 
 „Udělám si je,“ řekl jsem.
 
-IV
-
-  
+## IV
 
 A TAK JSEM ODHALIL VELIKOU PRAVDU: Že totiž lidé bydlí. A rozhodl jsem se je uzdravit a vystavět jejich dům v jejich srdci. Neboť katedrála je zářivější než hromada kamenů. A nemají pravdu ti, kteří mne viní z neúplnosti proto, že odmítám hloubit septik. Neboť jsem ten, kdo kolem vůně buduje schránku, aby se nerozptýlila.
 
-V
-
-  
+## V
 
 NEBOŤ JÁ VEDU LID, který jsem uzavřel do své lásky. Někteří dostali jenom podmínku. Stavím chrám, abych uchránil svůj lid před záměry písku. Je možné vystavět jiný chrám, ale ten jiný není o nic pravdivější. Všichni, kteří uvažují, se mýlí. Žádná oáza není. A přít se nemíním, neboť tu kromě písku není nic, co by se dalo dokázat.
 
