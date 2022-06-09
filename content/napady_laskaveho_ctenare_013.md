@@ -5,9 +5,7 @@ contentType: prose
 
 _Ladislavu Fuksovi_
 
-I
-
-  
+## I
 
 Když přišel z nákupu, byla téměř tma, a tak hned v předsíňce rozsvítil. Objevil se jeho stín, a než se odvážil pohlédnout zpět na dveře, stín se vrhl na dopisní schránku a pak do pokoje.
 
@@ -23,9 +21,7 @@ Všecek rozrušen nese nákup do moderně zařízené kuchyně. „Uvaříme, sl
 
 Ruce nad kuchyňským pultem se na okamžik zastavily v prázd­ném vzduchu. Postup. _Metoda_! Kdy to jen už slyšel?
 
-II
-
-  
+## II
 
 Tehdy na počátku šedesátých let pracoval jako řadový úředník v Národní galerii. Bylo mu bezmála čtyřicet, ale dosud se mu podařilo publikovat jen jednu jedinou věc, odbornou práci o zámku Kynžvart. Jeho poštovní schránka zůstávala stále prázdná. Zoufal si.
 
@@ -51,9 +47,7 @@ Doma nedočkavě svlékl kabát a dychtivě si přitáhl psací stroj. Rozsvít
 
 „Pan Theodor Mundstock,“ napsal na titulní list.
 
-III
-
-  
+## III
 
 A tak si i nyní po letech znovu připomněl ono tajemství záchrany: že takto metodicky musí myslet stále.
 
@@ -75,9 +69,7 @@ Ale především ten, kdo nepíše nic příliš temného.
 
 A ten, kdo nepíše o židech.“
 
-IV
-
-  
+## IV
 
 Pan Ladislav Fuks se dívá, dívá se pozorně. Ale co vidí, to jeho pokojík není. To není kulatý stolek s křesílky, psací stůl s lampou, zrcadlo u okna, pohovka, která se navečer proměňuje v lůžko. Pan Ladislav Fuks se dívá pozorně a vidí – budovu nakladatelství.
 

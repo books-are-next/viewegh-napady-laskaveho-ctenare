@@ -79,7 +79,9 @@ L: No jestli tady prófa dovolí… (potěšeně vstává)
 
 T: (naoko bodře) Jen běžte, jen běžte… Až se vrátíte, povím vám něco o mnichovské zradě.
 
-_Doporučená četba k tomuto večeru:_
+  
+
+**_**_Doporučená četba k tomuto večeru:_**_**
 
 Tigrid, Pavel: Kvadratura kruhu. Edice Svědectví, Paříž 1970.
 

@@ -5,9 +5,7 @@ contentType: prose
 
 _Zdeňku Svěrákovi_
 
-Dětství
-
-  
+## Dětství
 
 Jára Kinderman se narodil roku 1812 jako páté dítě horského tkalce Alfonze Kindermana. Ten však záhy zemřel, a Jára tedy vyrůstal pouze pod dohledem matky. Matka malého Kindermana doslova zbožňovala a byla by pro něj udělala vše, co bylo v jejích silách – což, jak později poznamenává Kinderman sám, bylo zoufale málo.
 
@@ -15,9 +13,7 @@ V rodině panovala nepředstavitelná bída. Svědčí o tom mimo jiné Kinder
 
 Na sklonku třicátých let se však na rodinu přece jen usměje štěstí: Kindermanovi bratři si ve Vídni zřizují pojízdnou čistírnu peří, která se stává zdrojem malého, ale pravidelného příjmu. Ambice mimořádně ctižádostivé Kindermanovy matky jsou tak beze zbytku ukojeny, a když se Jára později rozhodne pro učitelské povolání, matka s blahosklonnou lhostejností souhlasí.
 
-Další léta
-
-  
+## Další léta
 
 V létě roku 1839 se Kinderman žení s Annou Marií Fetterovou, která mu postupně dala sedm dětí. Není divu, že Kindermanův dům byl neustále plný rámusu a křiku: „Kindermanův dům,“ píše Kinderman ve svém deníku, „je neustále plný rámusu a křiku.“
 
@@ -31,15 +27,11 @@ Klaus K: Ach so! Danke schön.
 
 Jára K: Bitte schön.
 
-Návštěva Pesttalozziho
-
-  
+## Návštěva Pesttalozziho
 
 Roku 1867 navštívil Kinderman Pesttalozziho v jeho výchovném ústavu na statku v Neuhoffu. Pesttalozzi však nebyl doma.
 
-Další léta
-
-  
+## Další léta
 
 Další léta se Kinderman věnuje především didaktice. Nejprve se kriticky vyrovnává s tehdy velmi rozšířenou _biflovací_ metodou: „Kdo bifluje, ten krade,“ píše roku 1874 Kinderman. Zároveň definuje slavné _formální stupně_ vyučovacího procesu, a to v přesném pořadí, v jakém za sebou následují v každé vyučovací hodině s výjimkou organické chemie:
 
@@ -61,25 +53,19 @@ Jeho dětská zahrádka v té době velmi prosperuje a přijíždějí ji nav�
 
 Shodou okolností se takřka současně vynořily zlovolné, absurdní pomluvy, že Kinderman údajně při výuce dětí používá polovojenských metod. Ministerstvo školství pověřilo zemského školního inspektora Müllera, aby celou situaci prověřil. Müller byl však během hospitace na Kindermanově hodině tělesné výchovy nešťastnou náhodou smrtelně zraněn střepinou dělostřeleckého šrapnelu – a vláda další provoz školky zakázala.
 
-Druhá návštěva Pesttalozziho
-
-  
+## Druhá návštěva Pesttalozziho
 
 Rozčarovaný Kinderman se znovu rozjíždí za Pesttalozzim: tentokrát je úspěšný. Pesttalozzi, který byl toho roku (1887) již šedesát let po smrti, Kindermana vlídně přijímá a po dlouhé večery se vzájemně škádlivě přou o optimální délku ukazovátka. Dychtivý Kinderman zároveň Pesttalozziho bombarduje otázkami, na které již léta marně hledá odpovědi a které ho provokují svou nejednoznačností: Mají děti po obědě spát? Mají mít večer zhasnuto? Mají si nechat punčocháče?
 
 „Ano. Ano. Ne,“ zní Pesttalozziho odpověď.
 
-Nemoc
-
-  
+## Nemoc
 
 Po triumfálním návratu od Pesttalozziho (traduje se, že ho na nádraží přišly přivítat hned dvě z jeho sedmi dětí, ačkoli na druhé straně je pravda i to, že ještě týž den dospívající Klaus vystřelil na otce celkem čtrnáctkrát z kulovnice) se Kinderman stěhuje do německo-českého pohraničí. Přihlašuje se zde k trvalému pobytu a k myšlence tzv. _jazykového utrakvismu_, to jest vyučování dvěma jazyky současně: zprvu postupuje tak, že příslušnou část učiva vyloží nejprve německy – a hned nato česky. To mu však brzy přirozeně připadá málo a zkouší paralelně překládat každou vyslovenou větu, později každé slovo a nakonec každou vyslovenou slabiku. Jeho odvážný pedagogický experiment je však předčasně ukončen: Kinderman dostává silný záchvat schizofrenie a je hospitalizován na pražské psychiatrické klinice.
 
 „Špitálnice,“ zapisuje si do deníku lakonicky.
 
-Poslední léta
-
-  
+## Poslední léta
 
 Poslední léta svého života tráví Kinderman na Žatecku. V roce 1961 se přímo v Žatci seznamuje s mladým českým učitelem Zdeňkem Svěrákem a jeho půvabnou ženou. Vzájemný vztah této trojice je však obestřen četnými záhadami; za všechny uveďme alespoň zcela zmatený deníkový zápis paní Svěrákové, která si v květnu onoho roku poznamenává: „Ten Kinderman! Ve starých kamnech se skutečně topí nejlépe. 37 poloh!“
 

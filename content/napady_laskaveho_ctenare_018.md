@@ -5,9 +5,7 @@ contentType: prose
 
 _Vítězslavu Rzounkovi_
 
-Vitana Byšice: Knedlíky v prášku
-
-  
+## Vitana Byšice: Knedlíky v prášku
 
 Nová próza zkušené autorky zaujme už v expozici: „Obsah sáčku vysypeme do mísy a přilejeme 200–250 ml vody“ – okamžitě, bez obšírných úvodů se ocitáme v samotném středu dění, to jest v zadělávací míse. Autorka si znamenitě osvojila rybákovsko-tauferovskou vyjadřovací úspornost, takže v celém textu nenajdeme snad jediné zbytečné slovo; hutnost těsta, které je hlavním protagonistou příběhu, podmiňuje i obdivuhodnou hutnost větné stavby.
 
@@ -23,11 +21,9 @@ Jako celek působí próza velice vyrovnaně. Autorka, dcera zná­mého kultrn�
 
 K vydání doporučuji.
 
-Orthosan BF 45:  
+## Orthosan BF 45:  
 Šampon na vlasy s desinsekčními  
 a desinfekčními účinky.
-
-  
 
 Dlouhý a nic neříkající název předznamenává krátkou prózu, jejímuž autorovi očividně nestačilo uplynulé čtvrtstoletí na to, aby se poučil z krizového vývoje literatury konce šedesátých let. Neklade si totiž zjevně jiný cíl než evokovat pocity hnusu, štítivosti a fyzického odporu. V této souvislosti je příznačné, jak často se zde objevují obsedantní motivy nejrůznějšího nepříjemného hmyzu: „… pro hubení vši dětské hlavové, popřípadě dalších ektoparazitů získaných pobytem v přírodě, tj. klíšťat přisátých i nepřisátých, blech, roztočů a všenek.“ Autor coby beznadějně vytrvalý Kafkův epigon záměrně rezignuje na pohlednou a užitečnou většinu české fauny, jeho výběr je demagogicky tendenční. Diskreditovány jsou tak prokazatelné výsledky našeho socialistického zdravotnictví, a tím i výsledky celé naší společnosti, jejíž obraz je v autorově „díle“ zlomyslně redukován na „zavšivené hlavy“.
 

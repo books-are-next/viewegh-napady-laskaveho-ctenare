@@ -3,7 +3,7 @@ title: Co hulákají věci
 contentType: prose
 ---
 
-(syžet neorealistické povídky)
+**(syžet neorealistické povídky)**
 
 _Albertu Moraviovi_
 
