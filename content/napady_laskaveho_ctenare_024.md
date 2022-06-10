@@ -3,15 +3,21 @@ title: Love Story
 contentType: prose
 ---
 
+<section>
+
 **(příběh jednoho zápasu)**
 
 _Erichu Segalovi_
 
-  
+</section>
+
+<section>
 
 Co můžete říct o pětadvacetileté dívce, která zemřela? V podstatě cokoli. Že byla krásná. A chytrá. Že milovala Bacha a Beatles. A mě. A můžete to nejen říct, ale i napsat. A zejména vydat. Nazvěte to třeba „Love Story“ – zaručuju vám, že si na tom docela slušně namastíte kapsu.
 
-  
+</section>
+
+<section>
 
 Seznámili jsme se v pátek v knihovně radcliffský dívčí koleje. Půjčovala tam knihy.
 
@@ -64,3 +70,5 @@ Doktoři si nás přehazovali jako baseballovej míček, až si mě zavolal dokt
 Šel jsem pomalu z jeho ordinace a přemýšlel jsem o Bohu: chtěl jsem ho knockautovat a odpočítat podle Desatera.
 
 „Šetři se, hošánku,“ řekla mi doma. „Jak chceš v týhle kondičce zdvihat moji rakev?“
+
+</section>

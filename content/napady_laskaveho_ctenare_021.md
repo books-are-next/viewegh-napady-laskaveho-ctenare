@@ -3,9 +3,13 @@ title: "Ztracená generace a\_já"
 contentType: prose
 ---
 
+<section>
+
 _Ernestu Hemingwayovi_
 
-  
+</section>
+
+<section>
 
 Vyšel jsem z hotelu, kde kdysi bydleli Verlaine a Rimbaud a Balzac a kde jsem měl teď logicky mansardu na psaní já, a pustil jsem se kolem starého kostela Saint-Etienne-du-Mont na bulvár Saint-Michel. Ulice byly čerstvě vymyté deštěm a to jsem měl moc rád; na jaře jsem si na to dokonce tak zvykl, že jsem pak v létě musel chodit za kropicím vozem. Kavárna na Place Saint-Michel, kterou jsem nedávno objevil, byla příjemná, teplá a vlídná a mohl by to být přesně ten čistý, dobře osvětlený podnik, který člověk občas v noci potřebuje, když ho přepadne „nuda“, nicota, nebo nedejbože i žízeň, jenomže na druhé straně tu člověka většinou okradli o dva tři franky a v takovém prostředí se povídky nepíší zrovna snadno, zvláště píše-li někdo tak poctivé věty jako já.
 
@@ -100,3 +104,5 @@ Bylo mi z toho všeho nanic. Opřel jsem se dozadu. Brett se přisunula ke mně
 „Ach, Erneste,“ řekla, „kdybysme nebyli ta ztracená generace, mohli jsme si to spolu zatraceně užít!“
 
 „Viď,“ řekl jsem. „Není to aspoň pěkná představa?“
+
+</section>

@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 _Zato  
    
 Michal Viewegh   
@@ -16,3 +18,5 @@ _Nápady laskavého čtenáře_
 vydává nyní jako e-knihu
 
 Městská knihovna v Praze.
+
+</section>

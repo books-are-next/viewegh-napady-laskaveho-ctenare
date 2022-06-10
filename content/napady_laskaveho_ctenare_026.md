@@ -3,6 +3,8 @@ title: "Tichý Američan v\_Clichy"
 contentType: prose
 ---
 
+<section>
+
 _Henri Millerovi_
 
 > „Jeho cílem není psát o erotice,  
@@ -56,3 +58,5 @@ Z nejhoršího jsme byli venku.
 „Alors, dlužíme vám omluvu,“ řekl rozpačitě fotřík. „Coletto, pojď honem sem a nabídni pánům literátům tu svoji šťavnatou kundu!“
 
 Zkrátka, jak jsem řekl: Byla to doba, kdy kunda visela ve vzduchu.
+
+</section>

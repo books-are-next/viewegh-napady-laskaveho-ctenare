@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 > _Laskavý čtenáři!_
 
 > _Upřímně Ti gratuluji ke knize, kterou sis právě zakoupil, popřípadě ukradl v obvodní knihovně.[^1] Udělal jsi opravdu dobře, neboť toto je kniha určená – na rozdíl od většiny ostatních knih – především Tobě._
@@ -16,3 +18,5 @@ contentType: prose
 > _Tvůj kolega – čtenář_
 
 _[^1] Milý čtenáři, M. V. netušil, co nastane v budoucnosti. Tuto e-knihu sis stáhl zcela legálně bez jakékoliv platby či registrace, pravděpodobně z webu Městské knihovny v Praze. Připravila ji redakce MKP, jak je uvedeno v upraveném předcházejícím textu. _Pozn. red.__
+
+</section>

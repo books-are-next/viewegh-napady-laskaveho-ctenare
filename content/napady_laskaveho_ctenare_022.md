@@ -3,11 +3,15 @@ title: Co hulákají věci
 contentType: prose
 ---
 
+<section>
+
 **(syžet neorealistické povídky)**
 
 _Albertu Moraviovi_
 
-  
+</section>
+
+<section>
 
 Hrdina příběhu se chystá navštívit svou milenku, zralou ženu, aby jí pogratuloval k svátku. Na odchodu ze svého bytu je však stále čímsi neviditelným zdržován: ví to, přesně to cítí, ale nedokáže to po­jmenovat. Znovu a znovu kontroluje uzávěr vody, hořáky plynového vařiče, balkónové dveře a veškerá světla, ale nenachází nic, co by jeho podivný neklid vysvětlilo. Už chce rezignovaně odejít, když mu jakási neznámá síla doslova vytrhne z rukou košíček s bábovkou a láhví vína. Hrdina to pochopí jako jednoznačné varování a ještě jednou se do bytu vrací: po krátké obhlídce nachází hořící cigaretu, zapadlou do tygří předložky.
 
@@ -40,3 +44,5 @@ Pro hrdinu nastávají těžké časy. Věci ho bombardují svými bizar­ními 
 „Jeden po druhém! Jeden po druhém!“ tiší je hrdina unaveně. V té době se rozchází s čajovým sítkem a prožije krátký, bolestný románek s odsávačem kuchyňských par. Nějakou dobu se ještě bezvýsledně dvoří textilním tapetám v předsíni, až nakonec – veřejně a definitivně zesměšněn finským stavebnicovým nábytkem – prchá ze svého bytu na venkov k rodičům.
 
 Zde se zprvu zdá být všechno v pořádku, avšak několikahodinová drásavá hádka s maminčiným jehelníčkem hrdinovu osobnost zcela rozvrátí: ještě té noci se vrhá z okna v nejvyšším patře, jakkoli se mu okenní těsnění snaží jeho zoufalý čin v poslední chvíli rozmluvit.
+
+</section>

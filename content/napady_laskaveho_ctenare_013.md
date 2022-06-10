@@ -3,6 +3,8 @@ title: Chvála metody
 contentType: prose
 ---
 
+<section>
+
 _Ladislavu Fuksovi_
 
 ## I
@@ -76,3 +78,5 @@ Pan Ladislav Fuks se dívá, dívá se pozorně. Ale co vidí, to jeho pokojík 
 V čem spočívá způsob pana Fukse? V kolosálním nalézání všech možných situací, v podrobných, do všech jednotlivostí vypracovaných postupech. Jak na Národní třídu pojede? V kolik hodin? Jak pozdraví? Čest práci? V které ruce ponese rukopis? V pravé? Ano, ta je silnější. Ale kterou pak podá šéfredaktorovi? Náhle mu bleskne hlavou, že jsou možná věci, na které se člověk ani nepřipraví.
 
 Klid, jen klid, říká si. Je pouze třeba jít v oné metodě až do krajnosti. To zcela postačí. I kdyby měl psát pro děti o Fučíkovi. – A pan Ladislav Fuks, s blaženým úsměvem na tváři, bezmocně vzdychne.
+
+</section>

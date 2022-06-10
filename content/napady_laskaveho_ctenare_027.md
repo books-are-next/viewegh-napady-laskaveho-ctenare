@@ -3,6 +3,8 @@ title: "Cit a\_děla"
 contentType: prose
 ---
 
+<section>
+
 _Saint-Exupérymu_
 
 ## I
@@ -60,3 +62,5 @@ NEBOŤ JÁ VEDU LID, který jsem uzavřel do své lásky. Někteří dostali jen
 Neboť já jsem vládce a buduji silové tábory. Lidé tam přirozeně pracují.
 
 „Nečekej nic od člověka, který nepracuje pro věčnost,“ řekl mi kdysi otec. Nic od něho nečekám, ale pracovat zkrátka musí. Necháš-li rozmnožit šváby, zrodí se práva švábů. Ale ten, kdo skromně bdí pod hvězdami nad několika vychrtlými ovečkami (víc než skromně, řekl bych), je víc než pouhý pastevec: je hlídka. A každá hlídka je odpovědná za celou říši. Trestně odpovědná. Jednoho dne se ta různorodá hmota sjednotí a dolehne k mému srdci. Zatím já vládnu jim a oni kamenům a občas se s ovcema dohodneme, který lidi konkrétně je třeba obětovat.
+
+</section>

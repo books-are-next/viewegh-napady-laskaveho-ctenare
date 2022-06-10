@@ -3,6 +3,8 @@ title: Jára Kinderman, pedagog
 contentType: prose
 ---
 
+<section>
+
 _Zdeňku Svěrákovi_
 
 ## Dětství
@@ -74,3 +76,5 @@ Na samém sklonku života se Kinderman, unavený nekonečným paternitním spore
 Až do své smrti trpí častými depresemi, které do značné míry poznamenají jeho poslední práci, nevelkou sbírku pedagogických aforismů: najdeme zde například parafrázi na známý Baconův výrok, že vědění je moc – „Vědění je nemoc,“ píše Kinderman. Z dalších mnoha aforismů jmenujme alespoň některé: „Člověk je sice čistá deska, ale stejně smrdí“, „Emil se nemyl, pane Rousseau!“, „Školní rozhlas je vůl“ nebo „Z. S. je paroháč!“
 
 Kindermanova slova na smrtelné posteli potom už jen odpovídají na dávnou Černyševského otázku _Co dělat?_: „Vyprdnout se na všechno,“ tvrdí Kinderman.
+
+</section>
