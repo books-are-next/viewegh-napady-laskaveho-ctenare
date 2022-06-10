@@ -3,9 +3,13 @@ title: ZorbasanebJak se zbavit Buddhy
 contentType: prose
 ---
 
+<section>
+
 _Nikosu Kazantzakisovi_
 
-  
+</section>
+
+<section>
 
 Poprvé jsem ho potkal v přístavu v Pireu, když jsem odplouval na Krétu, abych konečně zanechal knih, zbavil se v sobě Buddhy a vyhnul se vojenské službě.
 
@@ -25,7 +29,9 @@ Přišel jsem k poznání, že tenhle Zorbas je člověk, jakého jsem dlouho h
 
 Tomu se říká svoboda, uvažoval jsem.
 
-  
+</section>
+
+<section>
 
 Plavba! Nesmrtelná krása Egejského moře a všech jeho ostrůvků, bílý jemný písek a rozkvetlé oleandry. Cítil jsem se jako v pohádce. Pak jsem se ale podíval na bledé cestující a pozvracenou palubu a zmocnil se mne obvyklý buddhistický soucit. Zorbas seděl na hromadě pozvraceného lanoví a i jeho planoucí zrak náhle potemněl.
 
@@ -33,7 +39,9 @@ Plavba! Nesmrtelná krása Egejského moře a všech jeho ostrůvků, bílý je
 
 Bylo vidět, že ho ty otázky velice souží.
 
-  
+</section>
+
+<section>
 
 Na Krétě nás vesničané poslali, abychom se ubytovali u jedné staré vdovy.
 
@@ -49,7 +57,9 @@ Nebyl jsem si úplně jist, ale Zorbas přinesl víno a celý se rozohnil.
 
 „Kalhoty jí hoří!“ zajíkal se Zorbas. „Jdi, pane, pryč…“
 
-  
+</section>
+
+<section>
 
 Ještě té noci Hortensie zemřela. Ráno jsem zastihl Zorbase, jak tančí nad její mrtvolou: tleskal rukama, podřepoval a točil se ve vzduchu. Chvílemi vyskakoval tak vysoko, až jsem měl strach, že mi zmizí v mracích.
 
@@ -59,7 +69,9 @@ Ještě té noci Hortensie zemřela. Ráno jsem zastihl Zorbase, jak tančí nad
 
 Jeho duch postupoval daleko rychleji než ostatní svět. Ta slepičí polévka byla ovšem skvělá.
 
-  
+</section>
+
+<section>
 
 Odpoledne Zorbas zahájil na dole těžbu a na oslavu vypil sedm džbánů vína.
 
@@ -86,3 +98,5 @@ Vyšlo najevo, že jsou to vdovy po hornících.
 „Opravdu jsou to vdovy?“ jásal Zorbas.
 
 Spočítal jsem je, a když jsem od toho odečetl náklady na důl, zjistil jsem, že jsem to štěstí pořídil vlastně velmi lacino.
+
+</section>

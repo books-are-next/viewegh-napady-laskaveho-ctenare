@@ -3,9 +3,13 @@ title: Ztráta slabikářeanebDěvčátko je bez sebe
 contentType: prose
 ---
 
+<section>
+
 _Sylvii Richterové_
 
-  
+</section>
+
+<section>
 
 Babička Anežka měla obrovskou představivost. To mě k ní přitahovalo a proto jsem ji nenáviděla. Dědeček vždycky sedával ve starém křesle a zpíval si: „Žežuličko v lese, rozpomeň se, jaké je to milování, když mě holka nechce.“ Babička většinou zpívala „Stillige Nacht, heilige Nacht“, protože si pořád představovala, že jsou Vánoce.
 
@@ -38,3 +42,5 @@ OPISUJI SVÉ DĚTství v kruzích větších a větších. Někdy si připadá
 ZJISTIT, O CO TU VLASTNĚ ŠLO.
 
 UŽ TO CHÁPU: MOJE JÁ SOUVISÍ S DRUHÝM REGÁLEM VLEVO nahoře v té lékárně poblíž Piazza Bologna.
+
+</section>

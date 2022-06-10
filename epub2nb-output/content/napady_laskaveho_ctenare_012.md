@@ -3,6 +3,8 @@ title: Muka velrybí obraznosti
 contentType: prose
 ---
 
+<section>
+
 _Vladimíru Páralovi_
 
 ## 1\. David
@@ -129,3 +131,5 @@ Všechno hezké má svůj konec, připomněla si Dáša Poláková oblíbená sl
 „Božínku, ty můj božínku,“ zlobila se, „takový hezký chlapec!“ Její slova Davidem akceptována jako PEVNÉ BODY V DESTRUOVANÉM VESMÍRU: „… a přijedeš k nám a já tě představím našim a paní Brázdová nám upeče dýňový koláč…“
 
 „Tak jsem tě konečně našel!“ vzlykne šťastně David Behr a Dáša Poláková mu utře zpocené čelo hygienickým ubrouskem AFRODITA (Kčs 0,50).
+
+</section>

@@ -3,9 +3,13 @@ title: Další truchlivý žert
 contentType: prose
 ---
 
+<section>
+
 _Milanu Kunderovi_
 
-  
+</section>
+
+<section>
 
 Tak jsem se po mnoha letech octl zase najednou doma. Stál jsem na Václavském náměstí, po němž jsem nesčetněkrát prošel jako dítě, jako chlapec i jako mladík (alespoň myslím, že to bylo Václavské náměstí – nebo že by to bylo Mariánské náměstí?), a necítil jsem žádné dojetí. Turisté okolo mne horlivě fotografovali jakési hodiny se dvěma malými okénky, kterými se pohybovaly barevné sochy apoštolů, a já jsem jen lhostejně upíjel z pepsi-coly. Ale klamal jsem se: to, co jsem pojmenovával lhostejností, byla jako obvykle zášť. Na čem mi vlastně záleží? ptal jsem se v duchu. Na čem lpím? Na bohu? Na vlasti? Na lidech? Ne, odpovídal jsem si, jediné, na čem mi ještě záleží, je román. A možná ještě na tom koženém křesle, jež jsem dostal od Aragona, který ho dostal od Brežněva. Vlastně je to směšné. Jako láska.
 
@@ -46,3 +50,5 @@ Poodstoupil jsem a svlékl si sako.
 Nezmohla se na jediné slovo. Přiblížil jsem se těsně k ní. Na jejím krku se zlatě zablýskla olympijská medaile.
 
 „Jsi truchlivý vůl!“ zařval přítel Kostka ze sousedního pokoje. „Tohle je paní Čáslavská…“
+
+</section>

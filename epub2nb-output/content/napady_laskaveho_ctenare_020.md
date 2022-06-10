@@ -3,11 +3,15 @@ title: Tatarská poušť
 contentType: prose
 ---
 
+<section>
+
 **(česká varianta)**
 
 _Dinu Buzzatimu_
 
-  
+</section>
+
+<section>
 
 Bílá pevnost na odlehlé hranici s Východní říší, kam byl ihned po absolvování pražské Vojenské dělostřelecké akademie odvelen, zapůsobila na poručíka D. velice zvláštním dojmem, a to od prvního okamžiku, kdy do ní vstoupil. Kamenné chodby svítily čistotou, uniformám vojáků se nedalo nic vytknout a všechny zbraně se jen leskly, ale přesto tu bylo cosi, co poručíkovi z neznámých důvodů svíralo útroby. V očích vojína, který poručíka odvedl k veliteli, nebylo možné spatřit nic, co by připomínalo život.
 
@@ -80,3 +84,5 @@ Po hodině jízdy narazili na železniční trať: kapitán společně s řidi�
 O deset minut později dorazili do Černé pevnosti. Její vojáci skutečně měli modré uniformy. Červená čepice jednoho z nich kapitánovi prozradila, kdo je zde velitelem.
 
 „Smrt kolaborantům!“ vykřikl kapitán a namířil na zrádce svou pistoli s trychtýřovitou hlavní. Potom stiskl spoušť – a na prsa výpravčího železniční stanice Čierna nad Tisou se zlehka snesl bílý pingpongový míček…
+
+</section>

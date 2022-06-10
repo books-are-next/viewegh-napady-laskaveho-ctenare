@@ -3,11 +3,15 @@ title: Prima večer
 contentType: prose
 ---
 
+<section>
+
 **(text o nejdůležitějších věcech v Kostelci)**
 
 _Josefu Škvoreckému_
 
-  
+</section>
+
+<section>
 
 Čekal jsem na ni v portálu dveří Port Arthuru. Nešla, a tak jsem si strčil bambusový plátek do úst a představoval si, že je to plátek šunky. Proto jsem taky hrál na tenor, že se tak příjemně cucal. Irena přišla v úzké sukni, připojil jsem se k ní a jako zhypnotizovaný jsem se jí díval na pohyblivý zadeček.
 
@@ -156,3 +160,5 @@ Vylezla z vody. Celá se leskla a voněla chlórem. Já jsem voněl penicilín
 „Jááúúúú!“ zařval jsem.
 
 „Oh shit!“ zvolala. „Lúkněte na toho ilavýho bérdíka!“
+
+</section>

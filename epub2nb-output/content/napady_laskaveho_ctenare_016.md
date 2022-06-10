@@ -3,9 +3,13 @@ title: "Kapesné inteligentní ženy ve vinárně U\_Sudu"
 contentType: prose
 ---
 
+<section>
+
 _Pavlu Tigridovi_
 
-  
+</section>
+
+<section>
 
 Červenec 1986. Teplý večer na terase vinárny luxusního hotelu kdesi na Jadranu. Ona se jmenuje Lucie, je jí dvacet čtyři let a je krásná: na dlouhé modiglianovské šíji nádherná hlava, ostře, řecky řezaný profil a velké oči ve tvaru mandlí, které, když ztmavnou, mají barvu dálek.
 
@@ -79,7 +83,9 @@ L: No jestli tady prófa dovolí… (potěšeně vstává)
 
 T: (naoko bodře) Jen běžte, jen běžte… Až se vrátíte, povím vám něco o mnichovské zradě.
 
-  
+</section>
+
+<section>
 
 **_**_Doporučená četba k tomuto večeru:_**_**
 
@@ -98,3 +104,5 @@ O. Henry: Jaro na jídelním lístku. Práce, Praha 1988.
 Erben, Karel Jaromír: Tři zlaté vlasy děda Vševěda, in: České pohádky. Albatros, Praha 1972.
 
 Smyšlený, Jaromír: Aktuální otázky pohlavní sublimace. Avicenum, Praha 1990.
+
+</section>

@@ -3,6 +3,8 @@ title: Nebezpečné známosti
 contentType: prose
 ---
 
+<section>
+
 **(česká verze)**
 
 _Choderlosu de Laclosovi_
@@ -54,3 +56,5 @@ _Choderlosu de Laclosovi_
 > Líbá Vás Pepík
 
 > P. S. Kterému privatizačnímu fondu důvěřujete?
+
+</section>

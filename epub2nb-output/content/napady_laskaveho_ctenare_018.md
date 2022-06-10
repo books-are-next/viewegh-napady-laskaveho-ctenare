@@ -3,6 +3,8 @@ title: Dva lektorské posudky
 contentType: prose
 ---
 
+<section>
+
 _Vítězslavu Rzounkovi_
 
 ## Vitana Byšice: Knedlíky v prášku
@@ -36,3 +38,5 @@ Z hlediska stylistického působí próza jakousi chtěnou siláckostí – vi
 „Šampon na vlasy s desinsekčními a desinfekčními účinky“ je literaturou podzemních sklepů a nepřátelských stínů – nikoli náhodou nás autor žádá, abychom jeho „výrobek“ nevystavovali „teplotám nad 40 stupňů ani _slunci_“ (podtrhl V. R.). Avšak, jak známo, kam slunce nechodí, tam chodí lékař. Aby tam náhodou nešel čtenář, musíme říci včas ono jasné, skálovské NE!
 
 K vydání nedoporučuji. Doporučuji spálit.
+
+</section>
