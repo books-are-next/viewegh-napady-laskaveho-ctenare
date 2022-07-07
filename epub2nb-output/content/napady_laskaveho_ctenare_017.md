@@ -5,7 +5,11 @@ contentType: prose
 
 <section>
 
+<div class="centered">
+
 _Edě Kriseové_
+
+</div>
 
 > „Literární propaganda šířila slávu světce českého do světa,
 

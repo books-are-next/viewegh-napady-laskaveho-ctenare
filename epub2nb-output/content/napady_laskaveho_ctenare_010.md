@@ -5,9 +5,17 @@ contentType: prose
 
 <section>
 
+<div class="centered">
+
 **(text o nejdůležitějších věcech v Kostelci)**
 
+</div>
+
+<div class="centered">
+
 _Josefu Škvoreckému_
+
+</div>
 
 </section>
 

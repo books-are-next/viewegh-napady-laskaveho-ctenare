@@ -5,7 +5,11 @@ contentType: prose
 
 <section>
 
+<div class="centered">
+
 _Vladimíru Páralovi_
+
+</div>
 
 ## 1\. David
 

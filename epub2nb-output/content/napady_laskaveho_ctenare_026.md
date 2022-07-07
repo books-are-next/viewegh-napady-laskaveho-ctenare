@@ -5,7 +5,11 @@ contentType: prose
 
 <section>
 
+<div class="centered">
+
 _Henri Millerovi_
+
+</div>
 
 > „Jeho cílem není psát o erotice,  
 > ale vypsat celou pravdu o životě,  

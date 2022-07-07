@@ -5,7 +5,11 @@ contentType: prose
 
 <section>
 
+<div class="centered">
+
 _Vítězslavu Rzounkovi_
+
+</div>
 
 ## Vitana Byšice: Knedlíky v prášku
 

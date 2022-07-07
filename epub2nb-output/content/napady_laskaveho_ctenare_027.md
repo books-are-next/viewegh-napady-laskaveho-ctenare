@@ -5,7 +5,11 @@ contentType: prose
 
 <section>
 
+<div class="centered">
+
 _Saint-Exupérymu_
+
+</div>
 
 ## I
 

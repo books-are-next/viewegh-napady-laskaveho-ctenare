@@ -5,7 +5,11 @@ contentType: prose
 
 <section>
 
+<div class="centered">
+
 _Zdeňku Zapletalovi_
+
+</div>
 
 </section>
 

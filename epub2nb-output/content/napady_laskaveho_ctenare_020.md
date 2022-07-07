@@ -5,9 +5,17 @@ contentType: prose
 
 <section>
 
+<div class="centered">
+
 **(česká varianta)**
 
+</div>
+
+<div class="centered">
+
 _Dinu Buzzatimu_
+
+</div>
 
 </section>
 

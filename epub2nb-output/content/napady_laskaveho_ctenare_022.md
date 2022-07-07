@@ -5,9 +5,17 @@ contentType: prose
 
 <section>
 
+<div class="centered">
+
 **(syžet neorealistické povídky)**
 
+</div>
+
+<div class="centered">
+
 _Albertu Moraviovi_
+
+</div>
 
 </section>
 
