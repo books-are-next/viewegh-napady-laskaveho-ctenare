@@ -5,9 +5,17 @@ contentType: prose
 
 <section>
 
+<div class="centered">
+
 **(příběh jednoho zápasu)**
 
+</div>
+
+<div class="centered">
+
 _Erichu Segalovi_
+
+</div>
 
 </section>
 

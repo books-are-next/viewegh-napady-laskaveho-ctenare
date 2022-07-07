@@ -5,7 +5,11 @@ contentType: prose
 
 <section>
 
+<div class="centered">
+
 _Bohumilu Hrabalovi_
+
+</div>
 
 </section>
 

@@ -5,9 +5,17 @@ contentType: prose
 
 <section>
 
+<div class="centered">
+
 **(česká verze)**
 
+</div>
+
+<div class="centered">
+
 _Choderlosu de Laclosovi_
+
+</div>
 
 ## I
 

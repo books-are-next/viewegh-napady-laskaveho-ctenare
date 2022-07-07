@@ -5,7 +5,11 @@ contentType: prose
 
 <section>
 
+<div class="centered">
+
 _Nikosu Kazantzakisovi_
+
+</div>
 
 </section>
 
