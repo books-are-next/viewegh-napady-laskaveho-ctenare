@@ -1,5 +1,5 @@
 ---
-title: Ztráta slabikářeanebDěvčátko je bez sebe
+title: Ztráta slabikáře aneb Děvčátko je bez sebe
 contentType: prose
 ---
 

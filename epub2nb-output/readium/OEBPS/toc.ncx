@@ -34,7 +34,7 @@
     </navPoint>
     <navPoint id="navpoint4" playOrder="4">
       <navLabel>
-        <text>Ztráta slabikářeanebDěvčátko je bez sebe</text>
+        <text>Ztráta slabikáře aneb Děvčátko je bez sebe</text>
       </navLabel>
       <content src="Text/napady_laskaveho_ctenare_011.xhtml#toc_marker-4"/>
     </navPoint>
