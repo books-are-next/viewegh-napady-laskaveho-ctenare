@@ -25,7 +25,7 @@
       "brAfter": ".+0.12\n.+12.12\n.+0.12.\n.+12.12.\ne.bookversebezpredsazeni.*za.*\ne.bookodsazeniodstavce.*za.*",
       "blockquote": "MLP.DENIK\nMLP.dopis.*\nMLP.citat\nMLP.prima.rec\ne.bookdopis\ne.bookprozatextkurzivadoprava",
       "figure": "MLP.obrazky.*\nmlpobrazky",
-      "centered": ".*uprostred.*",
+      "centered": ".*uprostred.*\nMLP-venovani",
       "verse": "MLP.verse.*",
       "em": ".*kurziva.*\n.*-I-.*\n.*-I\n.*_I_.*\n.*_I\nMLP.venovani\nMLP.verse.*\nMLP.titulka.prekladatel\nMLP.pozn.pod.carou\nMLP.scenicke.poznamky\ne.booktextvenovani.*\nmlpvenovani.*\nmlpversei",
       "strong": "MLP.tiraz.autor.a.nazev\nMLP.tiraz.podnazev\nMLP.licence.paragraf\n.*tucne.*\n.*tucna.*\n.*-B-\n.*-B\n.*_B_\n.*_B\nMLP.prima.rec\nMLP.prima.rec.bez.mezery\ne.booktirazautoradilo\nmlptextb\nmlptirazautoranazev",
@@ -132,8 +132,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Prosincové tornádo"
+            "title": "Prosincové tornádo",
+            "children": []
           },
           {
             "filename": "napady_laskaveho_ctenare_009.md",
@@ -145,8 +145,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Další truchlivý žert"
+            "title": "Další truchlivý žert",
+            "children": []
           },
           {
             "filename": "napady_laskaveho_ctenare_010.md",
@@ -158,8 +158,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Prima večer"
+            "title": "Prima večer",
+            "children": []
           },
           {
             "filename": "napady_laskaveho_ctenare_011.md",
@@ -171,8 +171,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Ztráta slabikáře aneb Děvčátko je bez sebe"
+            "title": "Ztráta slabikáře aneb Děvčátko je bez sebe",
+            "children": []
           },
           {
             "filename": "napady_laskaveho_ctenare_012.md",
@@ -184,8 +184,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Muka velrybí obraznosti"
+            "title": "Muka velrybí obraznosti",
+            "children": []
           },
           {
             "filename": "napady_laskaveho_ctenare_013.md",
@@ -197,8 +197,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Chvála metody"
+            "title": "Chvála metody",
+            "children": []
           },
           {
             "filename": "napady_laskaveho_ctenare_014.md",
@@ -210,8 +210,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Když ti není pomoci, zkus vyběhnout do noci"
+            "title": "Když ti není pomoci, zkus vyběhnout do noci",
+            "children": []
           },
           {
             "filename": "napady_laskaveho_ctenare_015.md",
@@ -223,8 +223,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Jára Kinderman, pedagog"
+            "title": "Jára Kinderman, pedagog",
+            "children": []
           },
           {
             "filename": "napady_laskaveho_ctenare_016.md",
@@ -236,8 +236,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Kapesné inteligentní ženy ve vinárně U Sudu"
+            "title": "Kapesné inteligentní ženy ve vinárně U Sudu",
+            "children": []
           },
           {
             "filename": "napady_laskaveho_ctenare_017.md",
@@ -249,8 +249,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Můj syn Václav Havel"
+            "title": "Můj syn Václav Havel",
+            "children": []
           },
           {
             "filename": "napady_laskaveho_ctenare_018.md",
@@ -262,8 +262,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Dva lektorské posudky"
+            "title": "Dva lektorské posudky",
+            "children": []
           },
           {
             "filename": "napady_laskaveho_ctenare_019.md",
@@ -275,8 +275,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Nebezpečné známosti"
+            "title": "Nebezpečné známosti",
+            "children": []
           },
           {
             "filename": "napady_laskaveho_ctenare_020.md",
@@ -288,8 +288,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Tatarská poušť"
+            "title": "Tatarská poušť",
+            "children": []
           },
           {
             "filename": "napady_laskaveho_ctenare_021.md",
@@ -301,8 +301,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Ztracená generace a já"
+            "title": "Ztracená generace a já",
+            "children": []
           },
           {
             "filename": "napady_laskaveho_ctenare_022.md",
@@ -314,8 +314,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Co hulákají věci"
+            "title": "Co hulákají věci",
+            "children": []
           },
           {
             "filename": "napady_laskaveho_ctenare_023.md",
@@ -327,8 +327,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Zorbas aneb Jak se zbavit Buddhy"
+            "title": "Zorbas aneb Jak se zbavit Buddhy",
+            "children": []
           },
           {
             "filename": "napady_laskaveho_ctenare_024.md",
@@ -340,8 +340,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Love Story"
+            "title": "Love Story",
+            "children": []
           },
           {
             "filename": "napady_laskaveho_ctenare_025.md",
@@ -353,8 +353,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Něco mezi životem a smrtí"
+            "title": "Něco mezi životem a smrtí",
+            "children": []
           },
           {
             "filename": "napady_laskaveho_ctenare_026.md",
@@ -366,8 +366,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Tichý Američan v Clichy"
+            "title": "Tichý Američan v Clichy",
+            "children": []
           },
           {
             "filename": "napady_laskaveho_ctenare_027.md",
@@ -379,8 +379,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Cit a děla"
+            "title": "Cit a děla",
+            "children": []
           },
           {
             "filename": "napady_laskaveho_ctenare_028.md",
@@ -392,8 +392,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Váženej pane doktore Moody!"
+            "title": "Váženej pane doktore Moody!",
+            "children": []
           },
           {
             "filename": "napady_laskaveho_ctenare_029.md",
@@ -687,6 +687,6 @@
       "user": "books-are-next",
       "repo": "viewegh-napady-laskaveho-ctenare"
     },
-    "generatedAt": 1658999672444
+    "generatedAt": 1659000634097
   }
 }
