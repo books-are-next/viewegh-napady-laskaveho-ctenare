@@ -1,0 +1,865 @@
+{
+  "preview": {
+    "isPreview": false
+  },
+  "title": "Nápady laskavého čtenáře",
+  "author": "Michal Viewegh",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "Beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "viewegh-napady-laskaveho-ctenare-2befbd7",
+  "revision": "2befbd7",
+  "readingOrder": [
+    "promo.html",
+    "napady_laskaveho_ctenare_005.html",
+    "napady_laskaveho_ctenare_006.html",
+    "napady_laskaveho_ctenare_007.html",
+    "napady_laskaveho_ctenare_008.html",
+    "napady_laskaveho_ctenare_009.html",
+    "napady_laskaveho_ctenare_010.html",
+    "napady_laskaveho_ctenare_011.html",
+    "napady_laskaveho_ctenare_012.html",
+    "napady_laskaveho_ctenare_013.html",
+    "napady_laskaveho_ctenare_014.html",
+    "napady_laskaveho_ctenare_015.html",
+    "napady_laskaveho_ctenare_016.html",
+    "napady_laskaveho_ctenare_017.html",
+    "napady_laskaveho_ctenare_018.html",
+    "napady_laskaveho_ctenare_019.html",
+    "napady_laskaveho_ctenare_020.html",
+    "napady_laskaveho_ctenare_021.html",
+    "napady_laskaveho_ctenare_022.html",
+    "napady_laskaveho_ctenare_023.html",
+    "napady_laskaveho_ctenare_024.html",
+    "napady_laskaveho_ctenare_025.html",
+    "napady_laskaveho_ctenare_026.html",
+    "napady_laskaveho_ctenare_027.html",
+    "napady_laskaveho_ctenare_028.html",
+    "about.html"
+  ],
+  "generatedAt": {
+    "date": "Thu Jul 28 2022 09:16:24 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1658999784611
+  },
+  "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "napady_laskaveho_ctenare_005.html",
+      "toc": []
+    },
+    {
+      "title": "Nápady laskavého čtenáře",
+      "file": "napady_laskaveho_ctenare_005.html",
+      "words": 89,
+      "chars": 317,
+      "ideas": 62,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "napady_laskaveho_ctenare_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Nápady laskavého čtenáře",
+      "file": "napady_laskaveho_ctenare_006.html",
+      "words": 30,
+      "chars": 191,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 2,
+      "prev": "napady_laskaveho_ctenare_005.html",
+      "next": "napady_laskaveho_ctenare_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Nápady laskavého čtenáře",
+      "file": "napady_laskaveho_ctenare_007.html",
+      "words": 260,
+      "chars": 1695,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 3,
+      "prev": "napady_laskaveho_ctenare_006.html",
+      "next": "napady_laskaveho_ctenare_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Prosincové tornádo",
+      "file": "napady_laskaveho_ctenare_008.html",
+      "words": 1171,
+      "chars": 6737,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 4,
+      "prev": "napady_laskaveho_ctenare_007.html",
+      "next": "napady_laskaveho_ctenare_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Prosincové tornádo",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Další truchlivý žert",
+      "file": "napady_laskaveho_ctenare_009.html",
+      "words": 933,
+      "chars": 5713,
+      "ideas": 22,
+      "role": "chapter",
+      "order": 5,
+      "prev": "napady_laskaveho_ctenare_008.html",
+      "next": "napady_laskaveho_ctenare_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Další truchlivý žert",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Prima večer",
+      "file": "napady_laskaveho_ctenare_010.html",
+      "words": 971,
+      "chars": 5754,
+      "ideas": 77,
+      "role": "chapter",
+      "order": 6,
+      "prev": "napady_laskaveho_ctenare_009.html",
+      "next": "napady_laskaveho_ctenare_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Prima večer",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ztráta slabikářeanebDěvčátko je bez sebe",
+      "file": "napady_laskaveho_ctenare_011.html",
+      "words": 672,
+      "chars": 4031,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 7,
+      "prev": "napady_laskaveho_ctenare_010.html",
+      "next": "napady_laskaveho_ctenare_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ztráta slabikářeanebDěvčátko je bez sebe",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Muka velrybí obraznosti",
+      "file": "napady_laskaveho_ctenare_012.html",
+      "words": 1986,
+      "chars": 12625,
+      "ideas": 66,
+      "role": "chapter",
+      "order": 8,
+      "prev": "napady_laskaveho_ctenare_011.html",
+      "next": "napady_laskaveho_ctenare_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Muka velrybí obraznosti",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "1. David",
+              "id": "1-david",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "2. Evžen",
+              "id": "2-evžen",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "3. Dora",
+              "id": "3-dora",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "4. Dáša",
+              "id": "4-dáša",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "5. Irena",
+              "id": "5-irena",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "6. David",
+              "id": "6-david",
+              "children": []
+            },
+            {
+              "index": 7,
+              "level": 2,
+              "name": "7. Evžen",
+              "id": "7-evžen",
+              "children": []
+            },
+            {
+              "index": 8,
+              "level": 2,
+              "name": "8. Dora",
+              "id": "8-dora",
+              "children": []
+            },
+            {
+              "index": 9,
+              "level": 2,
+              "name": "9. David",
+              "id": "9-david",
+              "children": []
+            },
+            {
+              "index": 10,
+              "level": 2,
+              "name": "10. Dáša",
+              "id": "10-dáša",
+              "children": []
+            },
+            {
+              "index": 11,
+              "level": 2,
+              "name": "11. Irena",
+              "id": "11-irena",
+              "children": []
+            },
+            {
+              "index": 12,
+              "level": 2,
+              "name": "12. Evžen",
+              "id": "12-evžen",
+              "children": []
+            },
+            {
+              "index": 13,
+              "level": 2,
+              "name": "13. David",
+              "id": "13-david",
+              "children": []
+            },
+            {
+              "index": 14,
+              "level": 2,
+              "name": "14. Dáša",
+              "id": "14-dáša",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chvála metody",
+      "file": "napady_laskaveho_ctenare_013.html",
+      "words": 664,
+      "chars": 4051,
+      "ideas": 38,
+      "role": "chapter",
+      "order": 9,
+      "prev": "napady_laskaveho_ctenare_012.html",
+      "next": "napady_laskaveho_ctenare_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Chvála metody",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "I",
+              "id": "i",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "II",
+              "id": "ii",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "III",
+              "id": "iii",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "IV",
+              "id": "iv",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Když ti není pomoci, zkus vyběhnout do noci",
+      "file": "napady_laskaveho_ctenare_014.html",
+      "words": 1016,
+      "chars": 6095,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 10,
+      "prev": "napady_laskaveho_ctenare_013.html",
+      "next": "napady_laskaveho_ctenare_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Když ti není pomoci, zkus vyběhnout do noci",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jára Kinderman, pedagog",
+      "file": "napady_laskaveho_ctenare_015.html",
+      "words": 1151,
+      "chars": 7745,
+      "ideas": 37,
+      "role": "chapter",
+      "order": 11,
+      "prev": "napady_laskaveho_ctenare_014.html",
+      "next": "napady_laskaveho_ctenare_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jára Kinderman, pedagog",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Dětství",
+              "id": "dětství",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "Další léta",
+              "id": "další-léta",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "Návštěva Pesttalozziho",
+              "id": "návštěva-pesttalozziho",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "Další léta",
+              "id": "další-léta-1",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "Druhá návštěva Pesttalozziho",
+              "id": "druhá-návštěva-pesttalozziho",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "Nemoc",
+              "id": "nemoc",
+              "children": []
+            },
+            {
+              "index": 7,
+              "level": 2,
+              "name": "Poslední léta",
+              "id": "poslední-léta",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Kapesné inteligentní ženy ve vinárně U Sudu",
+      "file": "napady_laskaveho_ctenare_016.html",
+      "words": 936,
+      "chars": 5619,
+      "ideas": 47,
+      "role": "chapter",
+      "order": 12,
+      "prev": "napady_laskaveho_ctenare_015.html",
+      "next": "napady_laskaveho_ctenare_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapesné inteligentní ženy ve vinárně U Sudu",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Můj syn Václav Havel",
+      "file": "napady_laskaveho_ctenare_017.html",
+      "words": 752,
+      "chars": 4458,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 13,
+      "prev": "napady_laskaveho_ctenare_016.html",
+      "next": "napady_laskaveho_ctenare_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Můj syn Václav Havel",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Dva lektorské posudky",
+      "file": "napady_laskaveho_ctenare_018.html",
+      "words": 869,
+      "chars": 5845,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 14,
+      "prev": "napady_laskaveho_ctenare_017.html",
+      "next": "napady_laskaveho_ctenare_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Dva lektorské posudky",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Vitana Byšice: Knedlíky v prášku",
+              "id": "vitana-byšice-knedlíky-vprášku",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "Orthosan BF 45:",
+              "id": "orthosan-bfnbsp45",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Nebezpečné známosti",
+      "file": "napady_laskaveho_ctenare_019.html",
+      "words": 523,
+      "chars": 2961,
+      "ideas": 27,
+      "role": "chapter",
+      "order": 15,
+      "prev": "napady_laskaveho_ctenare_018.html",
+      "next": "napady_laskaveho_ctenare_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Nebezpečné známosti",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "I",
+              "id": "i",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "II",
+              "id": "ii",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "III",
+              "id": "iii",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "IV",
+              "id": "iv",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "V",
+              "id": "v",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Tatarská poušť",
+      "file": "napady_laskaveho_ctenare_020.html",
+      "words": 790,
+      "chars": 5179,
+      "ideas": 39,
+      "role": "chapter",
+      "order": 16,
+      "prev": "napady_laskaveho_ctenare_019.html",
+      "next": "napady_laskaveho_ctenare_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tatarská poušť",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "II",
+              "id": "ii",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "III",
+              "id": "iii",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "IV",
+              "id": "iv",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "V",
+              "id": "v",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ztracená generace a já",
+      "file": "napady_laskaveho_ctenare_021.html",
+      "words": 929,
+      "chars": 5542,
+      "ideas": 49,
+      "role": "chapter",
+      "order": 17,
+      "prev": "napady_laskaveho_ctenare_020.html",
+      "next": "napady_laskaveho_ctenare_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ztracená generace a já",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Co hulákají věci",
+      "file": "napady_laskaveho_ctenare_022.html",
+      "words": 455,
+      "chars": 2906,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 18,
+      "prev": "napady_laskaveho_ctenare_021.html",
+      "next": "napady_laskaveho_ctenare_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Co hulákají věci",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ZorbasanebJak se zbavit Buddhy",
+      "file": "napady_laskaveho_ctenare_023.html",
+      "words": 672,
+      "chars": 4071,
+      "ideas": 38,
+      "role": "chapter",
+      "order": 19,
+      "prev": "napady_laskaveho_ctenare_022.html",
+      "next": "napady_laskaveho_ctenare_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ZorbasanebJak se zbavit Buddhy",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Love Story",
+      "file": "napady_laskaveho_ctenare_024.html",
+      "words": 486,
+      "chars": 2852,
+      "ideas": 30,
+      "role": "chapter",
+      "order": 20,
+      "prev": "napady_laskaveho_ctenare_023.html",
+      "next": "napady_laskaveho_ctenare_025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Love Story",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Něco mezi životem a smrtí",
+      "file": "napady_laskaveho_ctenare_025.html",
+      "words": 644,
+      "chars": 3861,
+      "ideas": 25,
+      "role": "chapter",
+      "order": 21,
+      "prev": "napady_laskaveho_ctenare_024.html",
+      "next": "napady_laskaveho_ctenare_026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Něco mezi životem a smrtí",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tichý Američan v Clichy",
+      "file": "napady_laskaveho_ctenare_026.html",
+      "words": 964,
+      "chars": 5716,
+      "ideas": 29,
+      "role": "chapter",
+      "order": 22,
+      "prev": "napady_laskaveho_ctenare_025.html",
+      "next": "napady_laskaveho_ctenare_027.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tichý Američan v Clichy",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Cit a děla",
+      "file": "napady_laskaveho_ctenare_027.html",
+      "words": 599,
+      "chars": 3509,
+      "ideas": 30,
+      "role": "chapter",
+      "order": 23,
+      "prev": "napady_laskaveho_ctenare_026.html",
+      "next": "napady_laskaveho_ctenare_028.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Cit a děla",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "I",
+              "id": "i",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "II",
+              "id": "ii",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "III",
+              "id": "iii",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "IV",
+              "id": "iv",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "V",
+              "id": "v",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Váženej pane doktore Moody!",
+      "file": "napady_laskaveho_ctenare_028.html",
+      "words": 1111,
+      "chars": 6203,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 24,
+      "prev": "napady_laskaveho_ctenare_027.html",
+      "next": "about.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Váženej pane doktore Moody!",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž",
+      "file": "about.html",
+      "words": 132,
+      "chars": 879,
+      "ideas": 14,
+      "role": "about",
+      "order": null,
+      "prev": "napady_laskaveho_ctenare_028.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 18812,
+      "chars": 114604,
+      "ideas": 737
+    },
+    "chapters": {
+      "words": 18673,
+      "chars": 113676,
+      "ideas": 719
+    }
+  }
+}
