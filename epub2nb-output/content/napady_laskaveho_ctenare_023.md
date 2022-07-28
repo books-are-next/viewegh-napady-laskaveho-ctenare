@@ -1,5 +1,5 @@
 ---
-title: ZorbasanebJak se zbavit Buddhy
+title: Zorbas aneb Jak se zbavit Buddhy
 contentType: prose
 ---
 
