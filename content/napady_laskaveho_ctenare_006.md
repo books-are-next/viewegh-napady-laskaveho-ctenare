@@ -5,10 +5,16 @@ contentType: prose
 
 <section>
 
+<div class="centered">
+
 _Zato  
    
 Michal Viewegh   
-zkusil, jak píší uvedení autoři._ 
+zkusil, jak píší uvedení autoři._
+
+</div>
+
+ 
 
 <div class="centered">
 
