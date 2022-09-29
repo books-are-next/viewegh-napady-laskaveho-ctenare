@@ -8,8 +8,8 @@
   "edition": "Beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "viewegh-napady-laskaveho-ctenare-4d35f82",
-  "revision": "4d35f82",
+  "identifier": "viewegh-napady-laskaveho-ctenare-04ecb0f",
+  "revision": "04ecb0f",
   "readingOrder": [
     "promo.html",
     "napady_laskaveho_ctenare_005.html",
@@ -39,8 +39,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 28 2022 09:32:36 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1659000756070
+    "date": "Thu Sep 29 2022 21:38:18 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664487498893
   },
   "documents": [
     {
@@ -99,7 +99,7 @@
       "title": "Nápady laskavého čtenáře",
       "file": "napady_laskaveho_ctenare_007.html",
       "words": 260,
-      "chars": 1695,
+      "chars": 1690,
       "ideas": 7,
       "role": "chapter",
       "order": 3,
@@ -176,7 +176,7 @@
       ]
     },
     {
-      "title": "Ztráta slabikáře aneb Děvčátko je bez sebe",
+      "title": "Ztráta slabikářeanebDěvčátko je bez sebe",
       "file": "napady_laskaveho_ctenare_011.html",
       "words": 672,
       "chars": 4031,
@@ -189,7 +189,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Ztráta slabikáře aneb Děvčátko je bez sebe",
+          "name": "Ztráta slabikářeanebDěvčátko je bez sebe",
           "id": null,
           "children": []
         }
@@ -674,7 +674,7 @@
       ]
     },
     {
-      "title": "Zorbas aneb Jak se zbavit Buddhy",
+      "title": "ZorbasanebJak se zbavit Buddhy",
       "file": "napady_laskaveho_ctenare_023.html",
       "words": 672,
       "chars": 4071,
@@ -687,7 +687,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Zorbas aneb Jak se zbavit Buddhy",
+          "name": "ZorbasanebJak se zbavit Buddhy",
           "id": null,
           "children": []
         }
@@ -853,12 +853,12 @@
   "totals": {
     "all": {
       "words": 18812,
-      "chars": 114604,
+      "chars": 114599,
       "ideas": 737
     },
     "chapters": {
       "words": 18673,
-      "chars": 113676,
+      "chars": 113671,
       "ideas": 719
     }
   }

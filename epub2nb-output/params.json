@@ -481,7 +481,7 @@
         "xhtml": "napady_laskaveho_ctenare_010.xhtml"
       },
       {
-        "titleSuggest": "Ztráta slabikáře aneb Děvčátko je bez sebe",
+        "titleSuggest": "Ztráta slabikářeanebDěvčátko je bez sebe",
         "subtitleSuggest": "",
         "filename": "napady_laskaveho_ctenare_011.md",
         "xhtml": "napady_laskaveho_ctenare_011.xhtml"
@@ -553,7 +553,7 @@
         "xhtml": "napady_laskaveho_ctenare_022.xhtml"
       },
       {
-        "titleSuggest": "Zorbas aneb Jak se zbavit Buddhy",
+        "titleSuggest": "ZorbasanebJak se zbavit Buddhy",
         "subtitleSuggest": "",
         "filename": "napady_laskaveho_ctenare_023.md",
         "xhtml": "napady_laskaveho_ctenare_023.xhtml"
@@ -687,6 +687,6 @@
       "user": "books-are-next",
       "repo": "viewegh-napady-laskaveho-ctenare"
     },
-    "generatedAt": 1659000634097
+    "generatedAt": 1664486166816
   }
 }

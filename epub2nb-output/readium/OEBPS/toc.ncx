@@ -34,7 +34,7 @@
     </navPoint>
     <navPoint id="navpoint4" playOrder="4">
       <navLabel>
-        <text>Ztráta slabikáře aneb Děvčátko je bez sebe</text>
+        <text>Ztráta slabikářeanebDěvčátko je bez sebe</text>
       </navLabel>
       <content src="Text/napady_laskaveho_ctenare_011.xhtml#toc_marker-4"/>
     </navPoint>
@@ -322,7 +322,7 @@
     </navPoint>
     <navPoint id="navpoint52" playOrder="52">
       <navLabel>
-        <text>Zorbas aneb Jak se zbavit Buddhy</text>
+        <text>ZorbasanebJak se zbavit Buddhy</text>
       </navLabel>
       <content src="Text/napady_laskaveho_ctenare_023.xhtml#toc_marker-16"/>
     </navPoint>
