@@ -16,5 +16,7 @@ contentType: prose
 > _V osobě **Michala Viewegha**, tohoto novodobého Spartaka naší čtenářské obce, získáváš nyní, laskavý čtenáři, nejen chápavého přítele, ale i obratného obhájce svých práv a tiskového mluvčího zároveň._
 
 > _Tvůj kolega – čtenář_
+
 [^1]: Milý čtenáři, M. V. netušil, co nastane v budoucnosti. Tuto e-knihu sis stáhl zcela legálně bez jakékoliv platby či registrace, pravděpodobně z webu Městské knihovny v Praze. Připravila ji redakce MKP, jak je uvedeno v upraveném předcházejícím textu. _Pozn. red._
+
 </section>
