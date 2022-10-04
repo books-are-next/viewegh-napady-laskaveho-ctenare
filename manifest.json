@@ -8,8 +8,8 @@
   "edition": "Beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "viewegh-napady-laskaveho-ctenare-ea354c6",
-  "revision": "ea354c6",
+  "identifier": "viewegh-napady-laskaveho-ctenare-8edc958",
+  "revision": "8edc958",
   "readingOrder": [
     "promo.html",
     "napady_laskaveho_ctenare_005.html",
@@ -39,8 +39,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Sat Oct 01 2022 16:07:28 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664640448236
+    "date": "Tue Oct 04 2022 16:55:17 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664902517964
   },
   "documents": [
     {
