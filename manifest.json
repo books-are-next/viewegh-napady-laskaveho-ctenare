@@ -8,8 +8,8 @@
   "edition": "Beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "viewegh-napady-laskaveho-ctenare-d94deb6",
-  "revision": "d94deb6",
+  "identifier": "viewegh-napady-laskaveho-ctenare-5badcd2",
+  "revision": "5badcd2",
   "readingOrder": [
     "promo.html",
     "napady_laskaveho_ctenare_005.html",
@@ -39,8 +39,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 07 2022 13:55:23 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665150923069
+    "date": "Mon Oct 10 2022 15:47:13 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665416833326
   },
   "documents": [
     {
@@ -833,7 +833,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 132,
-      "chars": 879,
+      "chars": 880,
       "ideas": 14,
       "role": "about",
       "order": null,
@@ -853,7 +853,7 @@
   "totals": {
     "all": {
       "words": 18812,
-      "chars": 114599,
+      "chars": 114600,
       "ideas": 737
     },
     "chapters": {
