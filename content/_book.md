@@ -13,6 +13,7 @@ meta:
   contentType: prose
   publisherShort: mkp
   edition: Beletrie
+  isbn: 978-80-274-2831-1
 readingOrder:
   - promo.html
   - napady_laskaveho_ctenare_005.html
